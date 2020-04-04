@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "rr-marketing-digital-himqbq",
+  "private_key_id": "b25447a8412bd4745d944d244ab69df933fbbeb7",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCqraEdkdTTMZ5Q\nh0UyPMGmgiJHMcyXmY0p2KVadQV0j7bt57J7n0GDMzdL8KSWKoRb6rVVkcCfpofy\ntuAx0YY7wSTcrGeRoLfsMY7N/d7e6+VHh+PfRbJKegGA8+UZX9Ie3nLSseBpnkw5\ns5C/O6NjK9UaaYsbG5V71P+4rQMV+QBfs4YkV+/jqEbDdYSCxjTptZhAdZuO5K2o\ntO5PR6Dynjmd8EeJtxmE6UruuX7zyBGtUsE/l6WdxyrLNglLslhMmZtmsphBbac2\nQG36pZV6S2HAH30lDxHuC+rL/DQoh71IWiEbSUlqlOpbtt4sJE4exl9ALTbMtH2O\nxLcW+UXXAgMBAAECggEAFdRLLPr/21sXQnlqkjhPFDrEo5Js9l6/PUDmNSGOZxAS\nd28Q1trRiDQ+uEm44zPg5dipBJ61ojWsYZCeMAD6SB411rt+K5QAsgbMmvADV0OY\neYOZ026YlQnxs0p+XLZyq1wMF4KEjz2dxit/MdYw2Xg7szsYfYkTn1jos/f80wxl\n+sVYcZl/apIQg+i/Y/kMmdoHB7T3TN2AbRja62BNyDBEReTfv3tWD0fbfK0gYcIE\niyGt/IU4fjd/E3BhKyKpR+vSNP6UW+AsyIhZlYXCuBWsjIkAh0mak59dPz07jpfJ\nmEgcg7nztPsqA+OvbDDFrPBQQOdcMQITLpuk+WKtUQKBgQDqirX9x2rmZJApCRL7\nnSCnuouVWlqt0EQ+kiojOzPNM8FGAsbadNMuXTXcIU7McJn1w9fxG5zJYydYQLcf\nhYvHJJnoGzfaQtf9k2dSlfuYJx1TTsQRFLSTfdXrLh8h89oypS2JfCdBK5Gl+v+u\nlqBLvyZeTx6rBT6hRPsSj8d98wKBgQC6SyViCPAusa/f+UMZJ1veF5EXzCUZTVqT\niVbu3byv3+hcLP5fkkLbIeaJPDP+1um/ZZgZT+xKn6gHeLy1/X9O7JecTXifvo2U\nW4d/BiCLeG2/Nh675BBnbv222RmE7OzRbkj4v7y2XbYHBJxz0V8O1+X3/H2+xb3u\n1jFf9hI9jQKBgHpJXF43LVt2r1tV6dnasP4C22hBtenOHubo2qOH6JhjFbBlHj0k\nkD8qRjzB+Q3K39suA1co6HRwCEGRbGk4/goU4VINbu+Tzn3d7w82N/m62yVmef/V\n5djI0VJPt9fCBtBFIxr96pGmH8iEt+7Vhjo4Lc8aPYk5sM/w4V9qK79VAoGASkmp\nEJzr2lL1BWWKwj8VvUy8iTbZHGviUK8VwY8erSumpwsyLL5Qdr3gBp3BRkBBWheT\nPZTHb0KXaNNWvWPnHnvuQWALV/hO0Phm4dp5o+RUL0nPm7FocTarafzM1lr8XM+T\nvc4H3Nklu0q1cOHu/CZQCEHhiu+ju9giPFgOEgkCgYEAriwjEhY+fFjsRWdm0UQ9\nU6eOzfO7wA6Tnanbw6YMX2QFojesSamrPcdhPV7GlNMZpUfZ7FxKcdozU3Li7VBM\nIwnPAXkOQZssceLgg7OuUDGuJHn4376s7Tz98KafA/zexEQjTCEMzldM5UnpQI6E\nE4798oDVtI2lYCErJP2dB3k=\n-----END PRIVATE KEY-----\n",
+  "client_email": "dialogflow-axqjka@rr-marketing-digital-himqbq.iam.gserviceaccount.com",
+  "client_id": "112225318223646083931",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dialogflow-axqjka%40rr-marketing-digital-himqbq.iam.gserviceaccount.com"
+}
