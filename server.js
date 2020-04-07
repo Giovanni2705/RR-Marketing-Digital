@@ -31,8 +31,8 @@ app.use(bodyParser.urlencoded({ extended: true }));
 
 const projectId = 'rr-marketing-digital-himqbq';
 const phoneNumber = "+593998657303";
-const accountSid = 'ACbe37d48c71dca01f5e079d883ff7ee3e';
-const authToken = '8d4dc7eefa11e2e77ebcf310967381b0';
+const accountSid = '';
+const authToken = '';
 
 const client = require('twilio')(accountSid, authToken);
 const MessagingResponse = require('twilio').twiml.MessagingResponse;
