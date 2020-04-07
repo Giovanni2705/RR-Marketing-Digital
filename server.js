@@ -29,8 +29,8 @@ app.use(bodyParser.urlencoded({ extended: true }));
 //See https://dialogflow.com/docs/reference/v2-auth-setup and
 // https://cloud.google.com/dialogflow/docs/setup for details.
 
-const projectId = 'rr-marketing-digital-himqbq';
-const phoneNumber = "+593998657303";
+const projectId = '';
+const phoneNumber = "";
 const accountSid = '';
 const authToken = '';
 
